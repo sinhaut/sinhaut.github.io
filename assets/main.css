@@ -103,15 +103,15 @@ footer {
   }
   header {
     float: left;
-    width: 46%;
+    width: 30%;
     text-align: right;
   }
   .author-container h1, .logo-container, .tagline-container p {
     text-align: right;
   }
   main {
-    width: 46%;
-    margin-left: 54%;
+    width: 60%;
+    margin-left: 40%;
     padding: 0;
   }
 }
